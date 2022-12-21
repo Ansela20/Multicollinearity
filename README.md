@@ -1,1 +1,2 @@
-# Multicollinearity
+# Multicollinearity in Linear Regression
+
